@@ -8,7 +8,7 @@ Simple eyes exercise
 
 ![Eyes](/images/eyes.png)
 
-MIT License
+## MIT License
 
 Copyright (c) 2022 Jarrod Medrano - Javascript Developer
 
