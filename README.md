@@ -6,7 +6,7 @@ Simple eyes exercise
 
 [https://jarrodmedrano.github.io/eyes/](https://jarrodmedrano.github.io/eyes/)
 
-![Eyes](/images/eyes.png)
+![Eyes](./eyes.png)
 
 ## MIT License
 
